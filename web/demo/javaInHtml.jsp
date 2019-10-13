@@ -20,18 +20,21 @@
     if (randomInt == 0) {
 %>
 
-<h1>Random value =<%=randomInt%></h1>
+<h1>Random value =<%=randomInt%>
+</h1>
 
 <%
 } else if (randomInt == 1) {
 %>
 
-<h2>Random value =<%=randomInt%></h2>
+<h2>Random value =<%=randomInt%>
+</h2>
 
 <%
 } else {
 %>
-<h3>Random value =<%=randomInt%></h3>
+<h3>Random value =<%=randomInt%>
+</h3>
 <%
     }
 %>
