@@ -11,7 +11,7 @@
     <title>Login Demo</title>
 </head>
 <body>
-    <form action="LoginServlet" method="post">
+    <form action="LoginController" method="post">
         <table>
             <tr>
                 <td><label>Username</label></td>
